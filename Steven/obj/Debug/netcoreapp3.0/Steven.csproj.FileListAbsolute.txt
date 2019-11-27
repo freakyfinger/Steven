@@ -1,0 +1,11 @@
+C:\Users\User1\source\repos\Steven\Steven\bin\Debug\netcoreapp3.0\Steven.exe
+C:\Users\User1\source\repos\Steven\Steven\bin\Debug\netcoreapp3.0\Steven.deps.json
+C:\Users\User1\source\repos\Steven\Steven\bin\Debug\netcoreapp3.0\Steven.runtimeconfig.json
+C:\Users\User1\source\repos\Steven\Steven\bin\Debug\netcoreapp3.0\Steven.runtimeconfig.dev.json
+C:\Users\User1\source\repos\Steven\Steven\bin\Debug\netcoreapp3.0\Steven.dll
+C:\Users\User1\source\repos\Steven\Steven\bin\Debug\netcoreapp3.0\Steven.pdb
+C:\Users\User1\source\repos\Steven\Steven\obj\Debug\netcoreapp3.0\Steven.csprojAssemblyReference.cache
+C:\Users\User1\source\repos\Steven\Steven\obj\Debug\netcoreapp3.0\Steven.AssemblyInfoInputs.cache
+C:\Users\User1\source\repos\Steven\Steven\obj\Debug\netcoreapp3.0\Steven.AssemblyInfo.cs
+C:\Users\User1\source\repos\Steven\Steven\obj\Debug\netcoreapp3.0\Steven.dll
+C:\Users\User1\source\repos\Steven\Steven\obj\Debug\netcoreapp3.0\Steven.pdb
